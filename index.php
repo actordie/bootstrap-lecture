@@ -36,6 +36,29 @@
 		<title>Bootstrap Lecture Demo</title>
 	</head>
 	<body>
-		<h2>THis is a bootstrap page.</h2>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+				</div>
+				<div class="col-md-4">
+					<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+				</div>
+				<div class="col-md-4">
+					<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+				</div>
+			</div><!--/.row-->
+
+			<div class="row">
+				<div class="col-md-6">
+					<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+				</div>
+				<div class="col-md-6">
+					<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+				</div>
+			</div><!--/.row-->
+		</div><!--/.container-->
+
 	</body>
 </html>
