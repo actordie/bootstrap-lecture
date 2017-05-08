@@ -35,30 +35,28 @@
 
 		<title>Bootstrap Lecture Demo</title>
 	</head>
-	<body>
+	<body class="sfooter">
+		<div class="sfooter-content">
 
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4">
-					<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+			<!-- HEADER -->
+			<header>
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-12">
+							<h2>Bootstrap Lecture Demo</h2>
+						</div>
+					</div>
 				</div>
-				<div class="col-md-4">
-					<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-				</div>
-				<div class="col-md-4">
-					<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-				</div>
-			</div><!--/.row-->
+			</header>
 
-			<div class="row">
-				<div class="col-md-6">
-					<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-				</div>
-				<div class="col-md-6">
-					<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-				</div>
-			</div><!--/.row-->
-		</div><!--/.container-->
 
+			<main>
+
+			</main>
+		</div><!--/.sfooter-content-->
+
+		<footer>
+			this is a footer
+		</footer>
 	</body>
 </html>
