@@ -65,23 +65,23 @@
 						</div>
 					</div><!--/.row-->
 					<div class="row">
-						<div class="col-md-3">
-							<div class="circle">
+						<div class="col-md-3 col-sm-6">
+							<div class="circle text-center">
 								<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. </p>
 							</div>
 						</div>
-						<div class="col-md-3">
-							<div class="circle">
+						<div class="col-md-3 col-sm-6">
+							<div class="circle text-center">
 								<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. </p>
 							</div>
 						</div>
-						<div class="col-md-3">
-							<div class="circle">
+						<div class="col-md-3 col-sm-6">
+							<div class="circle text-center">
 								<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. </p>
 							</div>
 						</div>
-						<div class="col-md-3">
-							<div class="circle">
+						<div class="col-md-3 col-sm-6">
+							<div class="circle text-center">
 								<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. </p>
 							</div>
 						</div>
