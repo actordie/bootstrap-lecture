@@ -49,14 +49,44 @@
 				</div>
 			</header>
 
-
+			<!-- BEGIN MAIN PAGE CONTENT -->
 			<main>
-
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							col-md-6
+						</div>
+						<div class="col-md-6">
+							col-md-6
+						</div>
+					</div><!--/.row-->
+					<div class="row">
+						<div class="col-md-3">
+							col-md-3
+						</div>
+						<div class="col-md-3">
+							col-md-3
+						</div>
+						<div class="col-md-3">
+							col-md-3
+						</div>
+						<div class="col-md-3">
+							col-md-3
+						</div>
+					</div><!--/.row-->
+				</div>
 			</main>
 		</div><!--/.sfooter-content-->
 
+		<!-- FOOTER -->
 		<footer>
-			this is a footer
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						this is the footer
+					</div>
+				</div>
+			</div>
 		</footer>
 	</body>
 </html>
